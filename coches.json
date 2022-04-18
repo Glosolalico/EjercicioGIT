@@ -1,0 +1,61 @@
+[{
+  "_id": {
+    "$oid": "624c2d9969f419a9184b3bd9"
+  },
+  "marca": "Citroen",
+  "modelo": "C4",
+  "matricula": "9481 FJE",
+  "kilometros": 18,
+  "anio": 2015,
+  "potencia": "6",
+  "selloE": false,
+  "precio": 98
+},{
+  "_id": {
+    "$oid": "624c2dbc69f419a9184b3bda"
+  },
+  "marca": "Citroen",
+  "modelo": "C3",
+  "matricula": "9731 FJH",
+  "kilometros": 6,
+  "anio": 456,
+  "potencia": "4",
+  "selloE": false,
+  "precio": 8
+},{
+  "_id": {
+    "$oid": "624c32bb69f419a9184b3bdb"
+  },
+  "marca": "Toyota",
+  "modelo": "Toro",
+  "matricula": "6482 HOJ",
+  "kilometros": 2,
+  "anio": 2014,
+  "potencia": "4",
+  "selloE": true,
+  "precio": 2
+},{
+  "_id": {
+    "$oid": "624c332f69f419a9184b3bdc"
+  },
+  "marca": "Seat",
+  "modelo": "Panda",
+  "matricula": "6309 GDO",
+  "kilometros": 3,
+  "anio": 1986,
+  "potencia": "si",
+  "selloE": true,
+  "precio": 34
+},{
+  "_id": {
+    "$oid": "624c336569f419a9184b3bdd"
+  },
+  "marca": "Seat",
+  "modelo": "Ibiza",
+  "matricula": "5284 FJE",
+  "kilometros": 9,
+  "anio": 2000,
+  "potencia": "poco",
+  "selloE": true,
+  "precio": 1.5
+}]

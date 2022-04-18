@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "624c12d269f419a9184b3bd8"
+  },
+  "nombre": "Oliverio",
+  "apellido": "Osorio Gallegos",
+  "provincia": "Albacete",
+  "Telefono": "609 738 193"
+}]
